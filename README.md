@@ -1,4 +1,4 @@
 # Git how to
 
 This is thу Hello World example from the git tutorial.
-(changet in original)
+(changet in original and pushed to shared)
